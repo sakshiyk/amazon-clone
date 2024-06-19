@@ -1,0 +1,54 @@
+*{
+    margin: 0;
+    font-family: Arial;
+    border:border-box;
+}
+.navbar{
+    height: 60px;
+    background-color: #0f1111;
+    color: white;
+    display:flex;
+    align-items:center;
+}
+.logo{
+    background-image: url(alogo.png);
+    height:30px;
+    width: 100%;
+    background-size: cover;
+}
+.nav-logo{
+    height:53px;
+    width:100px;
+    align-items:center;
+}
+.border{
+    border: 2px solid transparent;
+}
+.border:hover{
+    border:2px solid white;
+}
+.add-first{
+    color:#cccccc;
+    font-size :0.85rem;
+    margin-left:15px;
+}
+.add-sec{
+    font-size: 1rem;
+    margin-left:3px;
+}
+.add-icon{
+    display:flex;
+    align-items: center;
+}
+/**box3**/
+.nav-search{
+    display:flex;
+    background-color: pink;
+    border-radius: 4px;
+    height:40px;
+    width:600px;
+}
+.nav-select{
+    background-color: #f3f3f3;
+    width :50px;
+}
