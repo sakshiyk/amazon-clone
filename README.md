@@ -1,10 +1,10 @@
-# Amazon Website Clone
+ÿþ# Amazon Website Clone
 
 This project is a simplified HTML/CSS clone of the Amazon website's front page layout.
 
 ## Description
 
-The project consists of a single HTML file (`index.html`) and a CSS file (`style.css`) that together replicate the basic structure and styling of Amazon's website homepage.
+The project consists of a single HTML file (`index.html`and a CSS file (`style.css`) that together replicate the basic structure and styling of Amazon's website homepage.
 
 ## Features
 
